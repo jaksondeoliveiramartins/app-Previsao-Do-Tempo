@@ -4,7 +4,7 @@ Ferramentas Utilizadas Linguagem de Marcação (HTML), Estilização(CSS), Lingu
 
 ## Etapa
 1 - montar um layout.
-![alt text](layout.png)
+![alt text](src/imagens/layout.png)
 
 2 - Executar o VsCode. 
 
