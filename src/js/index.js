@@ -1,4 +1,4 @@
-const chaveDeApi = "afe78820ea0449ceb1f235243240711";
+const chaveDeApi = "aaff8d1e2b044b3b88d30716241011";
 const botaoDeBusca = document.querySelector(".btn-busca");
 
 
