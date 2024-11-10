@@ -14,18 +14,13 @@ Ferramentas Utilizadas Linguagem de Marcação (HTML), Estilização(CSS), Lingu
 
   
 5 - Links
-- Link dos arquivos de imagem:
-https://drive.google.com/drive/folder...
+- Link dos arquivos de imagem: https://drive.google.com/drive/folder...
 
-- Link da tag img:   
-https://cdn.weatherapi.com/weather/64...
+- Link da tag img:  https://cdn.weatherapi.com/weather/64...
 
-- API que usamos na aula:
-https://www.weatherapi.com/
+- API que usamos na aula: https://www.weatherapi.com/
 
-- Site que usamos pro box shadow 
-https://box-shadow.dev/
+- Site que usamos pro box shadow  https://box-shadow.dev/
 
-- Site com imagens de graça
-https://www.pexels.com/
+- Site com imagens de graça: https://www.pexels.com/
 
