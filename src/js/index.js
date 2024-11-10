@@ -9,12 +9,14 @@ botaoDeBusca.addEventListener("click", async () => {
 
     const dados = await buscarDadosDeClima(cidade);
 
-    preencherDadosNaTela(dados,cidade);
-
-
-
-
+    if (dados) preencherDadosNaTela(dados,cidade);
 });
+
+   
+
+
+
+
 async function buscarDadosDeClima(cidade) {
 
     const apiUrl = `http://api.weatherapi.com/v1/current.json?key=${chaveDeApi}&q=${cidade}&aqi=no&lang=pt`;
